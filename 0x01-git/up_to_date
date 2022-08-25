@@ -1,1 +1,1 @@
-touch up_to_date
+git echo "COMMAND" > up_to_date
